@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chatmedico-5d2ee": {
+      "hosting": {
+        "app": [
+          "chatmedico-5d2ee"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chatmedico-5d2ee"
+  }
+}
